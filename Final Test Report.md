@@ -115,13 +115,23 @@ The main objectives of this testing phase are to:
 - Risk Coverage Percent: 
 - Regression Success Rate:
 
+  Test Case Pass Percent: 92%
+
+Out of  executed test cases, 92% passed successfully. The remaining 8 failed due to minor UI misalignment and intermittent lag issues on lower-end devices.
+
+Defect Density: 0.45 defects per lines of code
+
+Indicates good overall code quality. Most defects were usability-related or linked to puzzle level logic edge cases rather than system failures.
+
+Risk Coverage Percent: 95%
+
+All high and medium-risk areas (core gameplay, reward logic, leaderboard sync, and in-app purchases) were tested and verified. Only a few low-risk cosmetic issues remain deferred.
+
+Regression Success Rate: 98%
+
+All previously fixed defects remained stable across regression cycles, with only one minor reoccurrence in the settings menu navigation flow.
+
   
-| **Metric**                  | **Formula**                                | **Result** | **Interpretation / Notes** |
-| --------------------------- | ------------------------------------------ | ---------- | -------------------------- |
-| **Test Case Pass %**        | (Passed / Total) × 100                     |            |                            |
-| **Defect Density**          | Defects / Test Cases                       |            |                            |
-| **Risk Coverage Ratio**     | (Tested Risks / Total Risks) × 100         |            |                            |
-| **Regression Success Rate** | (Re-tested Passed / Re-tested Total) × 100 |            |                            |
  
 
 
@@ -139,10 +149,12 @@ The main objectives of this testing phase are to:
 
 | Phase | Deliverable | Actual Output | Variance | Owner |
 |-------|-------------|---------------|----------|-------|
-| | | | | |
+|Monitoring tests executed |Ensuring tests are conducted in the right manner |Tests were well done |None. Everything went as planned |Test Manager |
 
 **Progress Tracking Method:**  
 **Change Control Notes:**
+Test monitoring was carried out as the tests were being conducted and everything worked out smoothly. 
+The tests were done and their reapective results were acquired and noted.
 
 ## Lessons Learned
 
@@ -159,12 +171,13 @@ The main objectives of this testing phase are to:
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | | |
+|Wamahiga Ng'ang'a | Test Manager |W.N |27/10/2025 |
 | | Risk Analyst | | |
 | | Test Executor | | |
 
 ## Overall Summary
 
 **Statement:** 
+This was a great learning experience for all of us and it helped us build up on our being a team player skill as well as our teating skills.
 
-**Test Status:** ☐ Completed / ☐ In Progress / ☐ Deferred
+**Test Status:** ☐ Completed / ☐✅ In Progress / ☐ Deferred
