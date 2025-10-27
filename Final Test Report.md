@@ -71,15 +71,15 @@ The main objectives of this testing phase are to:
 
 ### Schedule
 
-| Phase | Planned Duration | Actual Duration | Status |
-
-|Planning – Define objectives, scope, and schedule     |1 hour|2 hours|complete|
-| Risk Analysis – Identify & prioritize functional risks  | 1 hour                         | 1 hour                           | done           |
-| Test Design – Draft & review ≥ 8 test cases             | 2  hours                        |   2 hours                        |    completed        |
-| Execution Round 1 – Execute initial tests & log defects | 2                          | 2 hours                          |   finished         |
-| Review & Fix Verification – Validate resolved issues    | 2 hours                         | 2 hours                          |complete            |
-| Regression Testing – Re-run affected cases              | 1 hour                         | 1 hour                          | done           |
-| Metrics & Reporting – Update metrics, finalize report   | 1hour                          |   1 hour                        |   executed         |
+| **Phase**                                               | **Planned Duration** | **Actual Duration** | **Status** |
+| ------------------------------------------------------- | -------------------- | ------------------- | ---------- |
+| Planning – Define objectives, scope, and schedule       | 1 hour               | 2 hours             | complete   |
+| Risk Analysis – Identify & prioritize functional risks  | 1 hour               | 1 hour              | done       |
+| Test Design – Draft & review ≥ 8 test cases             | 2 hours              | 2 hours             | completed  |
+| Execution Round 1 – Execute initial tests & log defects | 2 hours              | 2 hours             | finished   |
+| Review & Fix Verification – Validate resolved issues    | 2 hours              | 2 hours             | complete   |
+| Regression Testing – Re-run affected cases              | 1 hour               | 1 hour              | done       |
+| Metrics & Reporting – Update metrics, finalize report   | 1 hour               | 1 hour              | executed   |
 
 ⏳ **Total Planned Duration = 11 hours**
 
