@@ -50,12 +50,13 @@ The main objectives of this testing phase are to:
 
 - 
 
-### Scope
+### ### 📦 **Scope**
 
-**In Scope:**
-- 
-
-**Out of Scope:**
+| **In Scope**                                                              | **Out of Scope**                       |
+| ------------------------------------------------------------------------- | -------------------------------------- |
+| Functional testing of new features (Reset Game, Leaderboard, Bonus Round) | Load/performance testing               |
+| UI validation (responsiveness, element visibility, usability)             | Security or penetration testing        |
+| Risk-based test case prioritization and reporting                         | Localization and accessibility testing |
 - 
 
 ### Tools & Resources
