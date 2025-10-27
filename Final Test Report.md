@@ -113,7 +113,19 @@ The main objectives of this testing phase are to:
 - Test Case Pass Percent: 
 - Defect Density: 
 - Risk Coverage Percent: 
-- Regression Success Rate: 
+- Regression Success Rate:
+
+  
+| **Metric**                  | **Formula**                                | **Result** | **Interpretation / Notes** |
+| --------------------------- | ------------------------------------------ | ---------- | -------------------------- |
+| **Test Case Pass %**        | (Passed / Total) × 100                     |            |                            |
+| **Defect Density**          | Defects / Test Cases                       |            |                            |
+| **Risk Coverage Ratio**     | (Tested Risks / Total Risks) × 100         |            |                            |
+| **Regression Success Rate** | (Re-tested Passed / Re-tested Total) × 100 |            |                            |
+ 
+
+
+
 
 ### Defect Summary
 
