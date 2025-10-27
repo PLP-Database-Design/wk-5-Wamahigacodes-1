@@ -11,9 +11,9 @@
 
 | Role | Name | Responsibilities |
 |------|------|------------------|
-| Test Manager | | Planning, scheduling, coordination, metric tracking |
-| Risk Analyst | | Risk identification, prioritization, test design linkage |
-| Test Executor | | Execution, evidence capture, defect logging |
+| Test Manager |Wamahiga Ng'ang'a| Planning, scheduling, coordination, metric tracking |
+| Risk Analyst |Vianne Ndagire | Risk identification, prioritization, test design linkage |
+| Test Executor |Lodrick Kibochi | Execution, evidence capture, defect logging |
 
 ## Group Rules
 
@@ -38,6 +38,15 @@
 ## Test Plan
 
 ### Objectives
+The main objectives of this testing phase are to:
+
+* Verify that all newly added features (Reset Game, Leaderboard, Bonus Round) meet functional requirements.
+* Ensure that user progress, scoring, and game state management behave consistently.
+* Detect and log defects early to minimize regression risks.
+* Prioritize high-risk functionalities based on likelihood and impact.
+* Achieve full coverage of critical and medium-risk test scenarios within the limited time frame.
+* 
+
 
 - 
 
